@@ -1,0 +1,3 @@
+[submodule "SubSubRepo"]
+	path = SubSubRepo
+	url = https://github.com/SilverBulletSoft/SubSubRepo.git
